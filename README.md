@@ -11,7 +11,7 @@
 ## 🇺🇸 English Documentation
 
 ### 📖 Overview
-This project provides a Graphical User Interface (GUI) to modify the system configuration (`VehicleConfig.bin`) of the Haval Jolion multimedia unit. It allows you to enable hidden features (like Voice Assistant "VAM" or Front Heat "ZA4") and customize other vehicle parameters.
+This project provides a Graphical User Interface (GUI) to modify the system configuration (`VehicleConfig.bin`) of the Haval Jolion multimedia unit. It allows you to enable hidden features (like Voice Assistant "VAM" or VA Language "ZA4") and customize other vehicle parameters.
 
 ### ⭐ Credits & Acknowledgements
 This tool is a GUI wrapper built upon the powerful core logic developed by **DymOK93**.
@@ -74,7 +74,7 @@ The tool supports **English** and **Arabic**. To switch languages:
 ## 🇸🇦 العربية: دليل الاستخدام
 
 ### 📖 نبذة عن الأداة
-تتيح لك هذه الأداة تعديل إعدادات النظام لشاشة هافال جوليون (Haval Jolion) بسهولة عبر الكمبيوتر. توفر واجهة رسومية آمنة لتفعيل الميزات المخفية (مثل الأوامر الصوتية وتدفئة الزجاج الأمامي) وتعديل ملف `VehicleConfig.bin`.
+تتيح لك هذه الأداة تعديل إعدادات النظام لشاشة هافال جوليون (Haval Jolion) بسهولة عبر الكمبيوتر. توفر واجهة رسومية آمنة لتفعيل الميزات المخفية (مثل الأوامر الصوتية ولغة الاوامر الصوتية) وتعديل ملف `VehicleConfig.bin`.
 
 ### ⭐ شكر وتقدير
 هذه الأداة عبارة عن واجهة رسومية تعتمد على البرمجيات الأساسية التي طورها **DymOK93**.
