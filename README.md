@@ -35,7 +35,7 @@ When you download the release, you will find two executable files. Choose the on
 
 #### 2. `ConfigToolVoice.exe` (Quick Fix)
 **The One-Click Patcher.**
-* Automatically finds **Voice Assistant (VAM)** and **Front Heat (ZA4)**.
+* Automatically finds **Voice Assistant (VAM)** and **Language (ZA4)**.
 * Sets them to `4` (Enabled) and reboots the car immediately.
 * No manual searching required.
 
@@ -96,7 +96,7 @@ The tool supports **English** and **Arabic**. To switch languages:
 
 #### 2. `ConfigToolVoice.exe` (الإصلاح السريع)
 **أداة التفعيل بضغطة زر.**
-* تقوم تلقائياً بالبحث عن **المساعد الصوتي (VAM)** و **تدفئة الزجاج (ZA4)**.
+* تقوم تلقائياً بالبحث عن **المساعد الصوتي (VAM)** و **اللغة (ZA4)**.
 * تقوم بتغيير قيمتها إلى `4` (تفعيل) وإعادة تشغيل الشاشة فوراً.
 * لا تحتاج للبحث اليدوي.
 
