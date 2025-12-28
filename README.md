@@ -11,7 +11,7 @@
 ## 🇺🇸 English Documentation
 
 ### 📖 Overview
-This project provides a Graphical User Interface (GUI) to modify the system configuration (`VehicleConfig.bin`) of the Haval Jolion multimedia unit. It allows you to enable hidden features (like Voice Assistant "VAM" or VA Language "ZA4") and customize other vehicle parameters.
+This project provides a Graphical User Interface (GUI) to modify the system configuration (`VehicleConfig.bin`) of the Haval Jolion multimedia unit. It allows you to enable hidden features (like Voice Assistant "VAM" or Voice Assistant Language "ZA4") and customize other vehicle parameters.
 
 ### ⭐ Credits & Acknowledgements
 This tool is a GUI wrapper built upon the powerful core logic developed by **DymOK93**.
@@ -44,9 +44,7 @@ When you download the release, you will find two executable files. Choose the on
 #### Prerequisites
 1.  **Laptop/PC** with Windows.
 2.  **Wi-Fi Connection:** Your Laptop and Car must be connected to the **same Wi-Fi network**.
-3.  **ADB Enabled in Car:**
-    * Open the Engineering Menu (dial `*#*#232#*#*`).
-    * Enable **ADB Switch**.
+3.  **ADB Connection:** Ensure you have ADB access to your Head Unit.
 
 #### How to Run
 1.  Download the latest ZIP file from the [Releases Page](../../releases).
@@ -74,7 +72,7 @@ The tool supports **English** and **Arabic**. To switch languages:
 ## 🇸🇦 العربية: دليل الاستخدام
 
 ### 📖 نبذة عن الأداة
-تتيح لك هذه الأداة تعديل إعدادات النظام لشاشة هافال جوليون (Haval Jolion) بسهولة عبر الكمبيوتر. توفر واجهة رسومية آمنة لتفعيل الميزات المخفية (مثل الأوامر الصوتية ولغة الاوامر الصوتية) وتعديل ملف `VehicleConfig.bin`.
+تتيح لك هذه الأداة تعديل إعدادات النظام لشاشة هافال جوليون (Haval Jolion) بسهولة عبر الكمبيوتر. توفر واجهة رسومية آمنة لتفعيل الميزات المخفية (مثل الأوامر الصوتية ولغة المساعد الصوتي "حتى الآن لم اجد كونفق اللغة العربية") وتعديل ملف `VehicleConfig.bin`.
 
 ### ⭐ شكر وتقدير
 هذه الأداة عبارة عن واجهة رسومية تعتمد على البرمجيات الأساسية التي طورها **DymOK93**.
@@ -107,9 +105,7 @@ The tool supports **English** and **Arabic**. To switch languages:
 #### المتطلبات
 1.  **كمبيوتر محمول (لابتوب)** بنظام ويندوز.
 2.  **اتصال Wi-Fi:** يجب أن تكون السيارة واللابتوب متصلين **بنفس شبكة الواي فاي**.
-3.  **تفعيل ADB في السيارة:**
-    * افتح القائمة الهندسية (اتصل على `*#*#232#*#*`).
-    * قم بتفعيل خيار **ADB Switch**.
+3.  **اتصال ADB:** تأكد من توفر صلاحية الاتصال عبر ADB في الشاشة.
 
 #### خطوات التشغيل
 1.  حمل آخر إصدار من صفحة [Releases](../../releases).
